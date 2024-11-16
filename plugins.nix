@@ -5,4 +5,5 @@ with pkgs.vimPlugins; [
   telescope-recent-files
   tokyonight-nvim
   ultisnips
+  which-key-nvim
 ]
