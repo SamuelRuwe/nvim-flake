@@ -1,7 +1,8 @@
 { pkgs }:
 with pkgs.vimPlugins; [
+  nvim-lspconfig
   telescope-nvim
   telescope-recent-files
-  nvim-lspconfig
+  tokyonight-nvim
   ultisnips
 ]
