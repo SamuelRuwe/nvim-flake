@@ -58,7 +58,6 @@ lspconfig.lua_ls.setup {
         checkThirdParty = false,
         library = {
           vim.env.RUNTIME,
-          vim.fn.expand'~/workspace/nvimPlugins/telescope.nvim/lua'
         },
       }
     })
